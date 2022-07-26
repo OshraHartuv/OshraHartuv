@@ -38,7 +38,7 @@
  
  <h2>💬 Social life is important right? :cowboy_hat_face:</h2>
  
- [![Linkedin Badge](https://img.shields.io/badge/-Oshra-Hartuv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oshra-hartuv-907b3b202/)](https://www.linkedin.com/in/oshra-hartuv-907b3b202/)
+ [![Linkedin Badge](https://img.shields.io/badge/-Oshra--Hartuv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oshra-hartuv-907b3b202/)](https://www.linkedin.com/in/oshra-hartuv-907b3b202/)
 [![Gmail Badge](https://img.shields.io/badge/-oshrartuv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oshrartuv@gmail.com)](mailto:oshrartuv@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Oshra_Hartuv-yellow?style=flat-square&labelColor=yellow&logo=facebook&logoColor=white&link=https://www.facebook.com/oshra.hartuv/)](https://www.facebook.com/oshra.hartuv/)
 
