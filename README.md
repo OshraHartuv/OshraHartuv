@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
- <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/scss/scss-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)" alt="sass" width="25" height="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scss/scss-original.svg" alt="sass" width="25" height="25" />
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" /> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
