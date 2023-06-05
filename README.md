@@ -1,6 +1,6 @@
  <h1>Hey 👋, I'm Oshra!</h1>
  
- <p>I am a 26 years old frontend / fullstack developer living in Tel Aviv. Currently working as a Full Stack developer.</p>
+ <p>I am a 26 years old frontend / fullstack developer living in Tel Aviv. Currently working as Full Stack Developer.</p>
  <p>Welcome to my profile :partying_face:</p>
  
  </br>
