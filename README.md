@@ -1,6 +1,6 @@
  <h1>Hey 👋, I'm Oshra!</h1>
  
- <p>I am a 28-year-old frontend/fullstack developer living in Tel Aviv. I am currently working as a Frontend Developer at Really Good.</p>
+ <p>I am a 29-year-old frontend/fullstack developer living in Tel Aviv. I'm currently working as a Frontend Developer at Really Good.</p>
  <p>Welcome to my profile :partying_face:</p>
  
  </br>
